@@ -1,0 +1,8 @@
+[dir] body {
+background-color: var(--menu-2);
+}
+
+[dir] .page_block {
+background: var(--menu-1);
+box-shadow: 0 1px 0 0 var(--menu0), 0 0 0 1px var(--menu0);
+}
